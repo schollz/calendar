@@ -1,6 +1,8 @@
 Zabuto Calendar
 =======
 
+[![Join the chat at https://gitter.im/schollz/calendar](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/schollz/calendar?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This library is a jQuery plugin for Bootstrap that lets you add a month calendar to your web page.
 
 You can customize the display of the calendar and view it in several languages.
